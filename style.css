@@ -2,3 +2,7 @@ body {
   background-color: hotpink;
   color: #fff;
 }
+
+.panel-body {
+  color: #000;
+}
